@@ -37,4 +37,5 @@ Em seguida, execute o programa com: ./nonograma inicializa.txt
 
 ## Demonstração do Jogo
 
-![Demonstração do Nonograma](https://images.app.goo.gl/FJChtz8y6Tp6gz6v8)
+![Demonstração do Nonograma]
+https://images.app.goo.gl/FJChtz8y6Tp6gz6v8 

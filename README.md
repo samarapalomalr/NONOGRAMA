@@ -12,9 +12,8 @@ O objetivo é descobrir a figura oculta a partir dessas dicas, seguindo as regra
 
 ### Regras do Jogo
 
-1. As dicas fornecem a quantidade de quadrados consecutivos que devem ser preenchidos em cada linha e coluna.
-2. As dicas devem ser seguidas rigorosamente para que o jogador consiga decifrar a figura correta.
-3. O jogador pode interagir com o jogo por meio de comandos para preencher, limpar ou verificar o estado da matriz.
+1. As dicas fornecem a quantidade de quadrados consecutivos que devem ser preenchidos em cada linha e colun
+2. O jogador pode interagir com o jogo por meio de comandos para preencher, limpar ou salvar o estado da matriz.
 
 ## Funcionalidades
 
@@ -36,7 +35,6 @@ O projeto está estruturado de forma modular, facilitando a manutenção e a com
 
 Para compilar o projeto, use o seguinte comando:
 
-```bash
 make
 
 Em seguida, execute o programa com: ./nonograma inicializa.txt

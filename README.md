@@ -1,8 +1,15 @@
 # Nonograma
 
+## Demonstração do Jogo
+
+![Demonstração do Nonograma]
+https://images.app.goo.gl/FJChtz8y6Tp6gz6v8 
+
+
 ## Descrição do Projeto
 
-O Nonograma é um jogo de lógica que consiste em preencher uma grade com quadrados pretos e espaços em branco, de acordo com dicas numéricas fornecidas nas linhas e colunas. O objetivo é descobrir a figura oculta a partir dessas dicas, seguindo as regras específicas que definem como os quadrados devem ser preenchidos.
+O Nonograma é um jogo de lógica que consiste em preencher uma grade com quadrados pretos e espaços em branco, de acordo com dicas numéricas fornecidas nas linhas e colunas. 
+O objetivo é descobrir a figura oculta a partir dessas dicas, seguindo as regras específicas que definem como os quadrados devem ser preenchidos.
 
 ### Regras do Jogo
 
@@ -34,8 +41,3 @@ Para compilar o projeto, use o seguinte comando:
 make
 
 Em seguida, execute o programa com: ./nonograma inicializa.txt
-
-## Demonstração do Jogo
-
-![Demonstração do Nonograma]
-https://images.app.goo.gl/FJChtz8y6Tp6gz6v8 

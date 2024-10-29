@@ -25,11 +25,10 @@ O objetivo é descobrir a figura oculta a partir dessas dicas, seguindo as regra
 ## Modularização do Projeto
 
 O projeto está estruturado de forma modular, facilitando a manutenção e a compreensão do código. As principais partes do projeto incluem:
-
 - **main.c**: Ponto de entrada do programa, gerenciando a interação do usuário e o fluxo principal do jogo.
-- **nonograma.h/c**: Contém as definições da estrutura do Nonograma e as funções relacionadas à criação, manipulação e exibição do jogo.
-- **salvar.h/c**: Função para salvar o estado atual do Nonograma em um arquivo.
-- **imprimir.h/c**: Função para exibir a matriz do Nonograma e instruções para o usuário.
+- **arquivo_nono.h**: Contém as definições da estrutura do Nonograma e as funções relacionadas à criação, manipulação e exibição do jogo.
+- **arquivo_nono.c**: Implementação das funções definidas no cabeçalho `arquivo_nono.h`, incluindo a lógica do jogo.
+- **Makefile**: Script para automatizar o processo de compilação do projeto.
 
 ## Como Compilar e Executar
 

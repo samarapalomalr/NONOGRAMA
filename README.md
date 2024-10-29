@@ -38,6 +38,5 @@ make
 
 Em seguida, execute o programa com:
 
-```bash
 ./nonograma inicializa.txt
 

@@ -2,8 +2,7 @@
 
 ## Demonstração do Jogo
 
-![Demonstração do Nonograma](https://nonogramskatana.wordpress.com/wp-content/uploads/2016/12/20161205_221410.png)
-
+<img src="https://nonogramskatana.wordpress.com/wp-content/uploads/2016/12/20161205_221410.png" alt="Demonstração do Nonograma" width="500" />
 
 ## Descrição do Projeto
 
@@ -12,7 +11,7 @@ O objetivo é descobrir a figura oculta a partir dessas dicas, seguindo as regra
 
 ### Regras do Jogo
 
-1. As dicas fornecem a quantidade de quadrados consecutivos que devem ser preenchidos em cada linha e colun
+1. As dicas fornecem a quantidade de quadrados consecutivos que devem ser preenchidos em cada linha e coluna.
 2. O jogador pode interagir com o jogo por meio de comandos para preencher, limpar ou salvar o estado da matriz.
 
 ## Funcionalidades
@@ -34,6 +33,11 @@ O projeto está estruturado de forma modular, facilitando a manutenção e a com
 
 Para compilar o projeto, use o seguinte comando:
 
+```bash
 make
 
-Em seguida, execute o programa com: ./nonograma inicializa.txt
+Em seguida, execute o programa com:
+
+```bash
+./nonograma inicializa.txt
+

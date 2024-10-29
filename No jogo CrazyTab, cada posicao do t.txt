@@ -1,0 +1,7 @@
+No jogo CrazyTab, cada posicao do tabuleiro contem um numero inteiro e é representado por suas coordenadas x e y. Os jogadores iniciam o jogo na posição (1,1) do tabuleiro, tendo zero pontos. Em cada rodada, eles podem se mover um certo numero de casas para cima(1), para baixo(2), para esquerda(3) ou para direita(4). Escreva um programa em c que implemente o jogo para 2 jogadores, atendendo aos seguintes requisitos:  
+*As dimensoes do tabuleiro, devem ser solicitadas ao usuario. Utilize alocação dinamica.
+*O tabuleiro deve ser inicializada aleatoriamente, com certa de 50% de células com valores entre 1 e 9 e o restante com valor zero.
+*No inicio do programa, deve ser lido o numero n de rodadas do jogo.
+*Em cada rodada, o programa le o movimento do jogador 1 e o movimento do jogador 2, sendo que cada movimento 2 valores sao lidos: a direção do movimento (1 a 4) e o número de casas a mover. Se um jogador mover-se para uma posição fora do tabuleiro ou indicar uma direção de movimento inválida, ele não acumula pontos e volta para a posição inicial (1,1).
+*Cada jogador vai acumulando os pontos marcados na posição do tabuleiro em que ele parar depois de cada jogada.
+*O programa deve imprimir o número de pontos de cada jogador ao final das n jogadas. Ganha o jogador que tiver o maior número de pontos.

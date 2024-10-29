@@ -2,8 +2,7 @@
 
 ## Demonstração do Jogo
 
-![Demonstração do Nonograma]
-https://images.app.goo.gl/FJChtz8y6Tp6gz6v8 
+![Demonstração do Nonograma](https://nonogramskatana.wordpress.com/wp-content/uploads/2016/12/20161205_221410.png)
 
 
 ## Descrição do Projeto
